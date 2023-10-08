@@ -11,6 +11,7 @@ public class AppMain {
 	inputUI.addObserver(controller);
 	view.display();
 	inputUI.display();
-  }	
+	new MyWebServer();
+  }
   
 }
