@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T13:23:07.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="m8LoBMPxt42FqaDoqllz" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T13:24:17.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="a-OH2HoBqRe2-DJuuIXB" version="22.0.4" type="github">
   <diagram name="Pagina-1" id="pLeTV3SMVm0aGeCwJbRF">
     <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="meqrrQlGFIaKkIZIDLAq-1" value="WebServer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="477" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="meqrrQlGFIaKkIZIDLAq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="meqrrQlGFIaKkIZIDLAq-2" target="meqrrQlGFIaKkIZIDLAq-1" edge="1">
+        <mxCell id="meqrrQlGFIaKkIZIDLAq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="meqrrQlGFIaKkIZIDLAq-2" target="meqrrQlGFIaKkIZIDLAq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="517" y="340" as="targetPoint" />
           </mxGeometry>
@@ -15,7 +15,7 @@
         <mxCell id="meqrrQlGFIaKkIZIDLAq-2" value="SocketServer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="477" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="meqrrQlGFIaKkIZIDLAq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="meqrrQlGFIaKkIZIDLAq-3" target="EDHjUQZg-11vU3VLEDfD-2" edge="1">
+        <mxCell id="meqrrQlGFIaKkIZIDLAq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="meqrrQlGFIaKkIZIDLAq-3" target="EDHjUQZg-11vU3VLEDfD-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="291" y="470" as="targetPoint" />
           </mxGeometry>
@@ -23,7 +23,7 @@
         <mxCell id="meqrrQlGFIaKkIZIDLAq-3" value="MQTT server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="231" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="meqrrQlGFIaKkIZIDLAq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="EDHjUQZg-11vU3VLEDfD-3" target="meqrrQlGFIaKkIZIDLAq-1" edge="1">
+        <mxCell id="meqrrQlGFIaKkIZIDLAq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="EDHjUQZg-11vU3VLEDfD-3" target="meqrrQlGFIaKkIZIDLAq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="537" y="470" as="sourcePoint" />
           </mxGeometry>
